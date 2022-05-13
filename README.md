@@ -1,16 +1,30 @@
-### Hi there 👋
+### Heyoooo
 
-<!--
-**ladyofcode/ladyofcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tabs! Developer, designer, and self-starter. I do lots of things:
 
-Here are some ideas to get you started:
+- Stream projects and work on Twitch.
+- Side projects galore. Major one is Grid.
+- Mentoring (local/online communities and at Innovation ACT).
+- Lead communities. 'Cause it's fun.
+- 100 Day Challenges. Currently 100 Days of Music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on
+
+- [Twitter](https://twitter.com/home)
+- [Twitch](https://www.twitch.tv/ladyofcode)
+- [Polywork](https://www.polywork.com/tabs)
+- [Site](https://ladyofcode.com)
+
+
+#### Side projects
+
+- ✨ Grid: chat-based community management software.
+- 📔 Of Course (name TBD): courseware supporting evidence-based education.
+- 💎 Cyberpunk TTRPG app: player assistant for quicker playing and custom mapping.
+
+
+Managing communities
+
+- Artifex ANU: a local community for creatives and tech people. I mentor students and freelancers.
+- Atlantis: an interidisciplinary Twitch/Twitter community, similar to the above except more web dev, entrepreneurship, and coworking. 
+- The Dragonfly Effect [Phi]: A video game community I've been running for 13 years.
