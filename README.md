@@ -2,13 +2,7 @@
 
 ### Heyoooo!
 
-I'm Tabs! Developer, designer, and self-starter. I do lots of things:
-
-- Stream projects and work on Twitch.
-- Side projects galore. Major one is Grid.
-- Mentoring (local/online communities and at Innovation ACT).
-- Lead communities. 'Cause it's fun.
-- 100 Day Challenges. Currently 100 Days of Music. We go hard.
+I'm Tabs! Developer, designer, and self-starter. I do lots of things: stream, work on a ton of side projects, lead communities, mentor, and do 100 Day Challenges. We go hard.
 
 You can find me on
 
