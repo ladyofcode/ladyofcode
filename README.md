@@ -8,7 +8,7 @@ I'm Tabs! Developer, designer, and self-starter. I do lots of things:
 - Side projects galore. Major one is Grid.
 - Mentoring (local/online communities and at Innovation ACT).
 - Lead communities. 'Cause it's fun.
-- 100 Day Challenges. Currently 100 Days of Music.
+- 100 Day Challenges. Currently 100 Days of Music. We go hard.
 
 You can find me on
 
