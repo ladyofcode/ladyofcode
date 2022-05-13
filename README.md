@@ -12,7 +12,7 @@ I'm Tabs! Developer, designer, and self-starter. I do lots of things:
 
 You can find me on
 
-[Twitter](https://twitter.com/home) | [Twitch](https://www.twitch.tv/ladyofcode) | [Polywork](https://www.polywork.com/tabs) | [Site](https://ladyofcode.com)
+[Twitter](https://twitter.com/home) - [Twitch](https://www.twitch.tv/ladyofcode) - [Polywork](https://www.polywork.com/tabs) - [Site](https://ladyofcode.com)
 
 
 #### Ongoing side projects
