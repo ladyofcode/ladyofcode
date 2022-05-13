@@ -22,7 +22,7 @@ You can find me on
 - 💎 Cyberpunk TTRPG app: player assistant for quicker playing and custom mapping.
 
 
-Managing communities
+#### Managing communities
 
 - Artifex ANU: a local community for creatives and tech people. I mentor students and freelancers.
 - Atlantis: an interidisciplinary Twitch/Twitter community, similar to the above except more web dev, entrepreneurship, and coworking. 
