@@ -1,4 +1,4 @@
-### Heyoooo
+### Heyoooo!
 
 I'm Tabs! Developer, designer, and self-starter. I do lots of things:
 
@@ -13,7 +13,7 @@ You can find me on
 [Twitter](https://twitter.com/home) | [Twitch](https://www.twitch.tv/ladyofcode) | [Polywork](https://www.polywork.com/tabs) | [Site](https://ladyofcode.com)
 
 
-#### Side projects
+#### Ongoing side projects
 
 - ✨ Grid: chat-based community management software.
 - 📔 Of Course (name TBD): courseware supporting evidence-based education.
