@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/ladyofcode/ladyofcode/main/header.jpg)
+![header](https://raw.githubusercontent.com/ladyofcode/ladyofcode/main/header.png)
 
 ### Heyoooo!
 
