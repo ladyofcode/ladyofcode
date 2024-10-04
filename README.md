@@ -6,7 +6,7 @@ I'm Tabs! Developer, designer, and self-starter. Outside of work I stream, work 
 
 You can find me on
 
-[Twitter](https://twitter.com/home) - [Twitch](https://www.twitch.tv/ladyofcode) - [Site](https://ladyofcode.com)
+[Twitter](https://x.com/ladyofcode) - [Twitch](https://www.twitch.tv/ladyofcode) - [Site](https://ladyofcode.com)
 
 
 #### Ongoing side projects
