@@ -6,18 +6,18 @@ I'm Tabs! Developer, designer, and self-starter. Outside of work I stream, work 
 
 You can find me on
 
-[Twitter](https://x.com/ladyofcode) - [Twitch](https://www.twitch.tv/ladyofcode) - [Site](https://ladyofcode.com)
+[Twitch](https://www.twitch.tv/ladyofcode) - [Bluesky](https://bsky.app/profile/ladyofcode.com) - [Twitter](https://x.com/ladyofcode) - [Site](https://ladyofcode.com)
 
 
 #### Ongoing side projects
 
 - ✨ Grid: chat-based community management software.
-- 📔 Of Course (name TBD): courseware supporting evidence-based education.
-- 💎 Cyberpunk TTRPG app: player assistant for quicker playing and custom mapping.
+- 📔 100 Day Challenges: I'm on round 17. There is no stopping now.
+- 💎 Atlantis: condensed, innovative web dev projects using three.js, Blender, and animation libraries.
 
 
 #### Managing communities
 
-- Artifex ANU: a local community for creatives and tech people. I mentor students and freelancers.
-- Atlantis: an interidisciplinary Twitch/Twitter community, similar to the above except more web dev, entrepreneurship, and coworking. 
-- The Dragonfly Effect [Phi]: A video game community I've been running for 14 years.
+- Artifex: a local community (Canberra, 🇦🇺) for creatives and tech people. I mentor.
+- Atlantis: an interidisciplinary online community, similar to the above except more web dev, entrepreneurship, and coworking. 
+- The Dragonfly Effect [Phi]: A video game community I've been running for 18 years.
